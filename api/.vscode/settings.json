@@ -1,0 +1,15 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "contact_book",
+            "group": "contact_book",
+            "database": "contact_book",
+            "username": "postgres",
+            "password": "postgres"
+        }
+    ]
+}
